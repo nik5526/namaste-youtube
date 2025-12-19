@@ -8,3 +8,7 @@ export const Search_Icon = "https://upload.wikimedia.org/wikipedia/commons/thumb
 export const Microphone_Icon = "https://static.vecteezy.com/system/resources/thumbnails/004/274/238/small/microphone-symbol-in-your-web-site-design-logo-app-ui-voice-icon-record-microphone-recording-studio-symbol-retro-mike-vector.jpg";
 
 export const User_Icon = "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png";
+
+export const Search_Query_API = "https://www.google.com/complete/search?client=chrome&ds=yt&q=";
+
+export const Message_Limit = 20;

@@ -1,11 +1,11 @@
 import React from "react";
 import Videos from "./Videos";
-import TopButtons from "./TopButtons";
+import ButtonList from "./ButtonList";
 
 
 const MainBody = ()=>{
-    return <div>
-        <TopButtons/>
+    return <div className="flex-1 ">
+        <ButtonList/>
         <Videos/>
     </div>
 }
