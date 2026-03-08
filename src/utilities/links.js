@@ -9,6 +9,6 @@ export const Microphone_Icon = "https://static.vecteezy.com/system/resources/thu
 
 export const User_Icon = "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png";
 
-export const Search_Query_API = "https://www.google.com/complete/search?client=chrome&ds=yt&q=";
+export const Search_Query_API = "";
 
 export const Message_Limit = 20;
